@@ -98,8 +98,8 @@ The platform will require a relational database to manage Users,Doctor-Location,
 
 | **Field Name** | **Type** |
 | --- | --- |
-| doctorid | Ref. Object → Product |
-| doctorname | Ref. Object → Users |
+| doctorid | String |
+| doctorname | String |
 | patentname | String |
 | patentid | String |
 | location | String |
