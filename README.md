@@ -46,7 +46,7 @@ The Tertiary Care System leverages modern technological models to enhance health
 - validator
 - nodemailer
 
-<h2 align="left">1. Database Structure</h2>
+<h2 align="left">Database Structure</h2>
 
 The platform will require a relational database to manage Users,Doctor-Location,Appointment,Location. Below is a proposed database structure with the key tables.
 
