@@ -108,7 +108,6 @@ The platform will require a relational database to manage Users,Doctor-Location,
 <h2 align="left">Modules and Components:</h2>
 
 
-
 <h3 align="left">Modules:</h3>
 
 1. **Appointment Management Module**
